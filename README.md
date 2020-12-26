@@ -1,2 +1,2 @@
 # Pandas-Analysis
-Simple Data Analysis Using Pandas Python Libraries.
+Simple Data Analysis Using Python Libraries.
