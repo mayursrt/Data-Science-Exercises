@@ -8,4 +8,5 @@ List of Libraries:<br>
 <ul>
 	<li>Pandas (Refer this link for more information<a href="https://pandas.pydata.org/docs/">)</a></li>
 	<li>NumPy (Refer this link for more information<a href="https://numpy.org/devdocs/user/index.html"></a>)</li>
+	<li>Matplotlib (Refer this link for more information<a href="https://matplotlib.org/3.3.3/contents.html"></a>)</li>
 </ul>
