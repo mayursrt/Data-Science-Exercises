@@ -1,3 +1,4 @@
+
 # Pandas-Analysis
 Simple Data Analysis Using Python Libraries.
 
@@ -5,8 +6,6 @@ This Repo contains Exercises based on Python libraries that are used for Data Sc
 These exercises only contain the most important functions that are used. For more details refer the documentations.<br>
 <br>
 List of Libraries:<br>
-<ul>
-	<li>Pandas (Refer this link for more information https://pandas.pydata.org/docs/)</li>
-	<li>NumPy (Refer this link for more information https://numpy.org/devdocs/user/index.html)</li>
-	<li>Matplotlib (Refer this link for more information https://matplotlib.org/3.3.3/contents.html)</li>
-</ul>
+* [Pandas](https://pandas.pydata.org/docs/)
+* [NumPy](https://numpy.org/devdocs/user/index.html)
+* [Matplotlib](https://matplotlib.org/3.3.3/contents.html)
